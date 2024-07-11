@@ -1,0 +1,16 @@
+C:\Users\huawei\source\repos\Library System\Library System\bin\Debug\net8.0-windows\Library System.exe
+C:\Users\huawei\source\repos\Library System\Library System\bin\Debug\net8.0-windows\Library System.deps.json
+C:\Users\huawei\source\repos\Library System\Library System\bin\Debug\net8.0-windows\Library System.runtimeconfig.json
+C:\Users\huawei\source\repos\Library System\Library System\bin\Debug\net8.0-windows\Library System.dll
+C:\Users\huawei\source\repos\Library System\Library System\bin\Debug\net8.0-windows\Library System.pdb
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\Library_System.Form1.resources
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\Library System.csproj.GenerateResource.cache
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\Library System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\Library System.AssemblyInfoInputs.cache
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\Library System.AssemblyInfo.cs
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\Library System.csproj.CoreCompileInputs.cache
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\Library System.dll
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\refint\Library System.dll
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\Library System.pdb
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\Library System.genruntimeconfig.cache
+C:\Users\huawei\source\repos\Library System\Library System\obj\Debug\net8.0-windows\ref\Library System.dll
